@@ -70,8 +70,6 @@ function removeBook (index) {
 }   
 
 
-//resi ovaj problem sa gitom
-
 
 
 
