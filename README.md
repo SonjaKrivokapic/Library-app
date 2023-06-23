@@ -8,7 +8,7 @@ Features
 - Displayes the input as a "card" to the webpage
 - Removes the book from the library
 
-Skills I have learned
+Skills learned
 --------
 
 - How to write an object constructor and instantiate the object
