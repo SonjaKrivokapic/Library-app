@@ -73,6 +73,7 @@ input[type="submit"]:hover {
     border: 1px solid #ccc;
     border-radius: 10px;
     text-align: center;
+    background-color: #333;
 }
 
 .book-header   {
@@ -125,13 +126,25 @@ button:hover{
     color: #fff;
 }
 
-.read-status {
-    background-color: blue;
+
+
+.remove-btn,
+.toggle-read-btn {
+  margin-top: 10px;
+  padding: 6px 12px;
+  font-size: 14px;
+  background-color: #ccc;
+  color: #fff;
+  border: none;
+  cursor: pointer;
 }
 
+.remove-btn {
+  background-color: #e74c3c;
+}
 
-
-
-
+.toggle-read-btn {
+  background-color: #3498db;
+}
 
 
