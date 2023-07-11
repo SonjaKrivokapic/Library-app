@@ -1,4 +1,5 @@
-$project is a browser version of a small library app I have build to improve my understanding of objects and objects constructors in JS.
+$project is a browser version of a small library app I have build to improve my understanding of objects and objects constructors. 
+$project us refactored to use class instead of plain constructors.
 
 
 Features
@@ -13,6 +14,7 @@ Skills learned
 
 - How to write an object constructor and instantiate the object
 - What is prototype and prototypal inheritance
+- how to refactor the object contsructors to classes
 
 
 Installation
