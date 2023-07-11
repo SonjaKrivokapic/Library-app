@@ -1,5 +1,6 @@
 $project is a browser version of a small library app I have build to improve my understanding of objects and objects constructors. 
-$project us refactored to use class instead of plain constructors.
+
+$project is refactored to use class instead of plain constructors.
 
 
 Features
